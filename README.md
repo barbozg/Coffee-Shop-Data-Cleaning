@@ -23,7 +23,7 @@ Este projeto tem como objetivo limpar e preparar um conjunto de dados sintético
 
 ## Tecnologias 💻
 
-- **Python 3.7+**  
+- **Python**  
 - **Jupyter Notebook**  
 - **Pandas**  
 - **NumPy**  
