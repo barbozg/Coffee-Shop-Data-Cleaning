@@ -1,7 +1,6 @@
 # Coffee Shop Data Cleaning ☕🧹
 
-> Limpeza e pré-processamento de dados de vendas de uma cafeteria, preparando o dataset “Dirty Cafe Sales” para análise exploratória e modelagem. :contentReference[oaicite:0]{index=0}
-
+> Limpeza e pré-processamento de dados de vendas de uma cafeteria, preparando o dataset “Dirty Cafe Sales” para análise exploratória e modelagem.
 ## Índice 📑
 
 - [Descrição](#descrição)  
